@@ -1,0 +1,5 @@
+.main-login{width: 100%; max-width: 770px; margin: 0 auto; border-radius: 10px; padding: 60px 30px; background-color: white}
+.main-login .title-sign-in{font-size: 24px; font-weight: bold;}
+.main-login button{margin-top: 20px}
+.main-login .group-link{display: flex; justify-content: space-between}
+.main-login .group-link a{font-size: 14px;margin:0;display: block;text-align: left;margin-top: 20px;}

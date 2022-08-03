@@ -1,0 +1,4 @@
+header.header-main{color: white}
+header.header-main .quick-action .avatar{display: flex; align-items: center}
+header.header-main .quick-action .avatar p{margin-right: 20px}
+header.header-main .toolbar-header{display: flex; justify-content: space-between}

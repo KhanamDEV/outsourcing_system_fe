@@ -1,0 +1,4 @@
+.dialog-notification .dialog-action{justify-content: center}
+.dialog-notification .dialog-action button {width: 150px}
+.dialog-notification .dialog-title{display: flex; font-size: 20px; flex-direction: column; align-items: center}
+.dialog-notification .dialog-title svg{ margin-bottom: 20px; font-size: 100px}
